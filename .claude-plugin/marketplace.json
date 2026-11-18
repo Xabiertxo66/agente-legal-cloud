@@ -1,0 +1,11 @@
+{
+  "name": "agente-legal-cloud",
+  "owner": { "name": "Xabiertxo66" },
+  "plugins": [
+    {
+      "name": "control-integridad",
+      "source": "./mods/control-integridad",
+      "description": "Revisa los escritos jurídicos tras cada edición: citas jurisprudenciales sin ECLI, normas sin [VERIFICAR VIGENCIA] y tipografía."
+    }
+  ]
+}
